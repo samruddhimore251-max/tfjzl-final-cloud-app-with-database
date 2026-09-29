@@ -1,4 +1,10 @@
+# xrwvm-fullstack_developer_capstone
 
+## Repository Name
+xrwvm-fullstack_developer_capstone
+
+## Project Name
+fullstack_developer_capstone
 **General Notes**
 
 An `onlinecourse` app has already been provided in this repo upon which you will be adding a new assesement feature.
